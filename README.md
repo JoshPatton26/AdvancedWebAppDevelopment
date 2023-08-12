@@ -28,7 +28,7 @@ The culmination of our learning journey was the final project, where we put our 
 
 For detailed information about the final project, please refer to the WebDevFinal repository.
 
-<br><br>
+<br>
 <footer>
   <b>Note:</b> The content in this repository reflects the journey and accomplishments of the <b>Advanced Web Development</b> course at UAB. It is a testament to your growth as a full-stack developer, showcasing your mastery of HTML, CSS, Javascript, Python, Flask, and more. The projects, assignments, and final e-commerce website project collectively embody the culmination of your skills in the world of modern web development.
 </footer>
